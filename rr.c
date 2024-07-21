@@ -59,4 +59,4 @@ void main()
 	//awt=(float)sum/n;
 	printf("Average tat = %0.2f \n",atat/n);
 	printf("Avearge wt = %0.2f",awt/n);
-}*/
+}
