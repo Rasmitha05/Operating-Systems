@@ -44,4 +44,4 @@
         //printf("%d ", ct[i]);
     printf("avg tat: %.2f\n", atat/n);
     printf("avg wt: %.2f", awt/n);
- }*/
+ }
