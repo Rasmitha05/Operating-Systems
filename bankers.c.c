@@ -70,7 +70,7 @@ int main()
     }
     int t=0;//no of processes that have been safely completed
     int s=0;//index for inserting nxt process in safe
-    int f=0;//flag to indicta any process was able to proceed
+    int f=0;//flag to indicate any process was able to proceed
     while(t<n)
     {
         
