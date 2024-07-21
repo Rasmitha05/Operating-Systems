@@ -39,4 +39,4 @@ void fcfs(){
     printf("AVG TAT:%.2f\n",atat/n);
     printf("AVG AWT:%.2f\n",awt/n);
     
-}*/
+}
